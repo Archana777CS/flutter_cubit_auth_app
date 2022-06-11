@@ -11,7 +11,7 @@ class _WelcomePageState extends State<WelcomePage> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      child: Text("Welcome"),
+      child: Text("Welcome User"),
     );
   }
 }
